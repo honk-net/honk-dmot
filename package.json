@@ -1,0 +1,20 @@
+{
+  "name": "honk-dmot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honk-net/honk-dmot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honk-net/honk-dmot/issues"
+  },
+  "homepage": "https://github.com/honk-net/honk-dmot#readme"
+}
